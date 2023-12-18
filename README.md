@@ -1,8 +1,9 @@
 
 
-<h1 align="center">Hi 👋, I'm NJT</h1>
-
+<h1 >Hi 👋, I'm NJT</h1>
+<p align="center">
 ![Background](https://github.com/NinoTraverso/NinoTraverso/assets/134203980/75ea57a1-a676-4e64-bfe2-1642681527f8)
+</p>
 
 <h3 align="center">A Full-Stack Developer and an Astronomy university student.</h3>
 
