@@ -2,10 +2,10 @@
 <img src="https://github.com/NinoTraverso/NinoTraverso/assets/134203980/a378ed3e-ef23-4f28-988b-a74bdaad122c"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Nino Traverso</h1>
+<h1 align="center">Hi 👋, I'm Nino. </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ninotraverso&label=Profile%20views&color=0e75b6&style=flat" alt="ninotraverso" /> </p>
 
-<h3 align="center">A Full-Stack Developer and an Astronomy University student.</h3>
+<h3 align="center">Full-Stack Developer | Astronomy University student.</h3>
 <p align="center">I’m a Junior Full-Stack Developer with a strong passion for Astronomy having a diverse
 and international background in Astronomy, technology and hospitality. I enjoy
 embarking in new challenges and I’m looking for a workplace to develop new skills,
