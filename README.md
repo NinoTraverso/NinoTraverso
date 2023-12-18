@@ -2,7 +2,6 @@
 <img src="https://github.com/NinoTraverso/NinoTraverso/assets/134203980/a378ed3e-ef23-4f28-988b-a74bdaad122c"/>
 </p>
 
-preview
 <h1 align="center">Hi 👋, I'm Nino Traverso</h1>
 <h3 align="center">A Full-Stack Developer and an Astronomy University student.</h3>
 
