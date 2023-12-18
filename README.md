@@ -2,7 +2,6 @@
 <p align="center">
   <img src="[https://github.com/Jacob/Jacob/raw/main/assets/134203980/c5e2ee09-6db2-4cbc-a4e2-03fdcd6f314f](https://github.com/NinoTraverso/NinoTraverso/assets/134203980/30d967cc-3a72-4dbf-8652-3e7da4d2dff7)" alt="Background" width="200">
 </p>
-![Background](https://github.com/NinoTraverso/NinoTraverso/assets/134203980/30d967cc-3a72-4dbf-8652-3e7da4d2dff7)
 
 <div id="badges">
   <a href="your-linkedin-URL">
