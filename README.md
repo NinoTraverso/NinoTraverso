@@ -3,9 +3,15 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Nino Traverso</h1>
-<h3 align="center">A Full-Stack Developer and an Astronomy University student.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ninotraverso&label=Profile%20views&color=0e75b6&style=flat" alt="ninotraverso" /> </p>
+
+<h3 align="center">A Full-Stack Developer and an Astronomy University student.</h3>
+<p align="center">I’m a Junior Full-Stack Developer with a strong passion for Astronomy having a diverse
+and international background in Astronomy, technology and hospitality. I enjoy
+embarking in new challenges and I’m looking for a workplace to develop new skills,
+improve existing ones, with opportunities for professional and personal growth. I enjoy
+working and collaborate in teams while aware of the importance of knowing how to work
+independently</p>
 
 - 🌱 I’m currently learning **React.js**
 
