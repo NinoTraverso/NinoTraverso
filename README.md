@@ -2,21 +2,6 @@
 <img src="https://github.com/NinoTraverso/NinoTraverso/assets/134203980/a378ed3e-ef23-4f28-988b-a74bdaad122c"/>
 </p>
 
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-18243
-Fork on GitHub
-5397
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
 preview
 <h1 align="center">Hi 👋, I'm Nino Traverso</h1>
 <h3 align="center">A Full-Stack Developer and an Astronomy University student.</h3>
