@@ -1,6 +1,6 @@
-
+<div style="align: center">
 ![Background](https://github.com/NinoTraverso/NinoTraverso/assets/134203980/b49c7935-c295-4bd2-a8e3-5e3d4b9f4466) 
-
+</div>
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
